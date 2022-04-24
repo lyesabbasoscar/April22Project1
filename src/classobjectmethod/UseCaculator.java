@@ -2,7 +2,7 @@ package classobjectmethod;
 
 import classobjectconstructor.House;
 
-public class UseCaculator {
+public class UseCalculator {
 
 	public static void main(String[] args) {
 		
